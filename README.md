@@ -6,7 +6,3 @@ Python app used to scrape manga chapters from mangakalot
 + add option to search for manga
 + ad GUI instead of web interface
 + add download as pdf option
-
-
-
-Web interface is designed by @BahaManai
